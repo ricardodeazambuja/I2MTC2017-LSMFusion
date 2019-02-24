@@ -38,6 +38,8 @@ A positioning controller based on Spiking Neural Networks for sensor fusion suit
     
 * Final IEEE Xplore version:
     * http://ieeexplore.ieee.org/document/7969728/
+* Postprint version available online:
+    * https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/9873/Paper_I2MTC_Plymouth_POSTPRINT.pdf
 
 * Related works:  
     * [Graceful Degradation under Noise on Brain Inspired Robot Controllers](https://github.com/ricardodeazambuja/ICONIP2016)
